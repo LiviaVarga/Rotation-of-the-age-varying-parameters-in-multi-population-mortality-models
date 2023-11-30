@@ -1,1 +1,1 @@
-# Rotation-of-the-age-varying-parameters-in-multi-population-mortality-models
+This repository is the online appendix to the paper 'Rotation of the age-varying parameters in multi-population mortality models'. I am grateful to the Cooperative Doctoral Programme of the Ministry of Culture and Innovation financed by the National Research, Development and Innovation Fund.
